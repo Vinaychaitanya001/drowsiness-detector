@@ -90,10 +90,6 @@ Same model and techniques can be used for various other uses like Netflix and ot
 
  ## contributors
 
-    Pranav Dharme
-    Garvit Verma
-    Dev Prajapat	
-    Devansh Agrawal
-    Ujjawal Khadanga
+    Aringi Vinay Chaitanya
     Akhil Dekarla
-    Shreesha
+    
